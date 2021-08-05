@@ -1,6 +1,7 @@
-# URL Launcher Package
+# Dicee Flutter App
 
 > Support IOS, Android and Web. Simple Single Page Code
+
 
 ## Demo
 >Dicee Home
