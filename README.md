@@ -21,6 +21,3 @@ git clone https://github.com/naumansamtia/dicee.git dicee_flutter
 ```
 ## Connect With Me
 Nauman Samtia– [@NaumanSamtia](https://www.linkedin.com/in/naumansamtia/) – naumansamtia3@gmail.com
-
-
-"# dicee" 
